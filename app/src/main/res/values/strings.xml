@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="minus">\u2212</string>
+    <string name="plus">\u002B</string>
+    <string name="reset">Reset</string>
+    <string name="green">#28c740</string>
+</resources>
